@@ -1,0 +1,34 @@
+.box{
+	background-color: lightcoral;
+	height:100px;
+	margin-bottom:5px;
+}
+.col-sm-3,.col-sm-9{
+	background-color: yellow;
+}
+
+/*.container2{
+	background-color: red;
+	min-height:500px;
+}*/
+.h_100{
+	height: 100px;
+}
+.box2{
+	background-color:maroon;
+	height:100px;
+}
+.flag,.around{
+	padding-top: 20px;
+}
+.box3{
+	background-color:maroon;
+	height:200px;
+	width:200px;
+	border-radius: 50%;
+}
+
+.h_300{
+	height: 300px;
+}
+
